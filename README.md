@@ -5,8 +5,8 @@ metadata  API server for prompt retrieval and management
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+    <recape-java-Scripts-react-important-subject>Document</recape-java-Scripts-react-important-subject>
+</MollyRans-Service>
 <body>
     
     <script src="./scripts/index.js"></script>
